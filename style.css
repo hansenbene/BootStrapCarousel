@@ -1,0 +1,8 @@
+.carouselimg {
+    max-height: 400px;
+    object-fit: cover;
+}
+
+h4 {
+    text-shadow: 2px 2px #000000;
+}
